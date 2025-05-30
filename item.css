@@ -1,0 +1,27 @@
+h2 {
+  margin-bottom: 8px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+
+.description,
+.ingredients,
+.steps {
+  padding: 12px 24px;
+  background-color: white;
+  margin-block: 8px;
+}
+
+.intro-image {
+  margin-block: 16px;
+}
+
+.home {
+  display: inline;
+  background-color: white;
+  padding: 8px;
+  margin-bottom: 8px;
+}
